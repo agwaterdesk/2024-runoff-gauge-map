@@ -1,0 +1,25 @@
+{
+  "project": {
+    "name": "2024-runoff-gauge-map",
+    "slug": "2024-runoff-gauge-map"
+  },
+  "s3": {
+    "bucket": "",
+    "folder": "2024-runoff-gauge-map"
+  },
+  "google": {
+    "doc": [
+      {
+        "id": "",
+        "filepath": "src/data/copy.json"
+      }
+    ],
+    "sheet": [
+      {
+        "id": "",
+        "gid": "",
+        "filepath": ""
+      }
+    ]
+  }
+}
