@@ -56,7 +56,9 @@
 
   {#if includeCredit}
     <div class="credit">
-      Data: <a target="_blank" href="https://nrtwq.usgs.gov/nwqn/#/GULF">USGS</a
+      Note: The most recent 10 years of flow-normalized loads are identified as
+      "provisional" as these loads are more likely to change as more data are
+      collected in future years; Data: <a target="_blank" href="https://nrtwq.usgs.gov/nwqn/#/GULF">USGS</a
       >; Graphic by Jared Whalen /
       <a target="_blank" href="https://agwaterdesk.org/">Ag & Water Desk</a>
     </div>
